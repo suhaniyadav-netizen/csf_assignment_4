@@ -3,6 +3,11 @@
 A simple and interactive command-line calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division.  
 This project demonstrates Python fundamentals, version control using Git, and repository management using GitHub.
 
+## Screenshots
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/2c9bfb80-e283-445f-9ba1-2df3b321963e" />
+<img width="1898" height="906" alt="image" src="https://github.com/user-attachments/assets/701e9bf5-a960-4500-af58-aba251608781" />
+
+
 ---
 
 ## Features
@@ -77,4 +82,5 @@ future_improvements.md – Planned updates
 - Suhani Yadav
 - 2501410032
 - B.Tech CSE Cyber Security
+
 - Computer Science and Fundamentals Assignment 3
